@@ -10,8 +10,8 @@ Feature Transformation is a technique by which we can boost our model performanc
 -  Step4: Print the transformed features.
 ## PROGRAM:
 ```
-Developed by : Dhanesh M
-Register No : 212220220009
+Developed by : Harshini M
+Register No : 212220220016
 ```
 ```
 import numpy as np
